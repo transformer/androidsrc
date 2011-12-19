@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VibratorTest</string>
+    <string name="btnOk">开始震动(震两秒停一秒)</string>
+    <string name="btnCancel">停止震动</string>
+</resources>
